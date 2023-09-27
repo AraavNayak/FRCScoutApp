@@ -6,9 +6,10 @@ FirebaseDB: https://console.firebase.google.com/project/frc-scouting-app-db01e/o
 
 <br>
 
+
 <b>Storyboard layout:</b>
 <br>
-<img width="450" alt="Screenshot 2023-09-11 at 11 41 23 PM" src="https://github.com/AraavNayak/FRCScoutApp/assets/104335810/5b94944b-40c5-432d-be15-bd4d6559c19a">
+<img width="888" alt="Storyboard layout" src="https://github.com/AraavNayak/FRCScoutApp/assets/104335810/1a5d94bf-3c4d-4b39-bcec-0d8f49196f7d">
 <br>
 <br>
 <b>Individual screens:</b>
